@@ -15,8 +15,8 @@ Cloudflare Pages で動作する、JSON 設定ファイルベースの短縮 URL
 ## セットアップ
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/aibrarymch/cloudflare-pages-redirects.git
+cd cloudflare-pages-redirects
 ```
 
 外部依存パッケージはありません。Node.js があればすぐに使えます。
