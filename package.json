@@ -1,0 +1,10 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Cloudflare Pages URL Shortener",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/validate.js && node scripts/build.js"
+  }
+}

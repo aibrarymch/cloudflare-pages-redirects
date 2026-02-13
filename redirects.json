@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "defaultStatusCode": 301,
+    "rootRedirect": "https://example.com/"
+  },
+  "redirects": [
+    {
+      "from": "blog",
+      "to": "https://example.com/blog",
+      "description": "Blog top page"
+    },
+    {
+      "from": "docs",
+      "to": "https://example.com/docs",
+      "description": "Documentation"
+    }
+  ]
+}
